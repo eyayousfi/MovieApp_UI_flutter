@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <div>
-  <img src="assets/screenshot1.png" width="200"  alt="Screenshot 1">
+  <img src="assets/screenshot1.png" width="201"  alt="Screenshot 1">
   <img src="assets/screenshot2.png" width="202"  alt="Screenshot 2">
   <img src="assets/screenshot3.png" width="205"  alt="Screenshot 3">
 </div>
