@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<div>
+  <img src="assets/screenshot1.PNG" width="300" height="500" alt="Screenshot 1">
+  <img src="assets/screenshot2.PNG" width="300" height="500" alt="Screenshot 2">
+  <img src="assets/screenshot3.PNG" width="300" height="500" alt="Screenshot 3">
+</div>
